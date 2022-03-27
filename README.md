@@ -4,10 +4,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Wrangling NI House Price Index Data](https://andrewbolster.info/2022/03/NI-House-Price-Index.html)
 - [Lies, Damned Lies, and Data Science](https://andrewbolster.info/2022/01/lies-damned-lies-and-data-science.html)
 - [Generative Adversarial Procrastination](https://andrewbolster.info/2021/11/generative-adversarial-procrastination.html)
 - [UUIDs and You](https://andrewbolster.info/2021/11/uuids-and-you.html)
-- [Counting Tabs and Background Tasks: Taunting Goodharts Demon](https://andrewbolster.info/2021/07/counting-tabs-and-background-tasks-taunting-goodharts-demon.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
