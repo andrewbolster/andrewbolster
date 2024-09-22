@@ -4,10 +4,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [On OpenAI 1o](https://andrewbolster.info//2024/09/on-openai-1o.html)
 - [&quot;Context all the way down&quot;: Primer on methods of Experience injection for LLMs](https://andrewbolster.info//2024/04/context-all-the-way-down-primer-on-methods-of-experience-injection-for-llms.html)
 - [Farewell Farset](https://andrewbolster.info//2024/02/farewell-farset.html)
 - [Generative AI: Impact on Software Development and Security](https://andrewbolster.info//2024/02/generative-ai-impact-on-software-development-and-security.html)
-- [Jupyter Environment Management for Dummies](https://andrewbolster.info//2024/01/jupyter-environment-management-for-dummies.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
