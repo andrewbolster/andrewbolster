@@ -4,10 +4,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Being a DORC in the age of Generative AI](https://andrewbolster.info//2025/07/being-a-dorc-in-the-age-of-generative-ai.html)
 - [On Deepseek](https://andrewbolster.info//2025/03/on-deepseek.html)
 - [AIOps Maturity Model](https://andrewbolster.info//2025/03/aiops-maturity-model.html)
 - [On OpenAI o1](https://andrewbolster.info//2024/09/on-openai-o1.html)
-- [&quot;Context all the way down&quot;: Primer on methods of Experience injection for LLMs](https://andrewbolster.info//2024/04/context-all-the-way-down-primer-on-methods-of-experience-injection-for-llms.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
