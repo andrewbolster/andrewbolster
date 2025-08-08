@@ -4,10 +4,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes from &quot;Will GenAI Revolutionise our Lives for the Good?&quot;](https://andrewbolster.info//2025/08/notes-from-will-genai-revolutionise-our-lives-for-the-good.html)
 - [Being a DORC in the age of Generative AI](https://andrewbolster.info//2025/07/being-a-dorc-in-the-age-of-generative-ai.html)
 - [On Deepseek](https://andrewbolster.info//2025/03/on-deepseek.html)
 - [AIOps Maturity Model](https://andrewbolster.info//2025/03/aiops-maturity-model.html)
-- [On OpenAI o1](https://andrewbolster.info//2024/09/on-openai-o1.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
