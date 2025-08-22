@@ -4,10 +4,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GPS III: Where Are We? And Where Are We Going? [Archive]](https://andrewbolster.info//2025/08/2014-08-20-gps-iii-where-are-we-and-where-are-we-going-archive.html)
 - [Notes from &quot;Will GenAI Revolutionise our Lives for the Good?&quot;](https://andrewbolster.info//2025/08/notes-from-will-genai-revolutionise-our-lives-for-the-good.html)
 - [Being a DORC in the age of Generative AI](https://andrewbolster.info//2025/07/being-a-dorc-in-the-age-of-generative-ai.html)
 - [On Deepseek](https://andrewbolster.info//2025/03/on-deepseek.html)
-- [AIOps Maturity Model](https://andrewbolster.info//2025/03/aiops-maturity-model.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
