@@ -4,10 +4,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Bolstering Claude Code: A Personal Development Environment Configuration Guide](https://andrewbolster.info//2025/12/bolstering-claude-code-a-personal-development-environment-configuration-guide.html)
-- [GPS III: Where Are We? And Where Are We Going? [Archive]](https://andrewbolster.info//2025/08/2014-08-20-gps-iii-where-are-we-and-where-are-we-going-archive.html)
-- [Notes from &quot;Will GenAI Revolutionise our Lives for the Good?&quot;](https://andrewbolster.info//2025/08/notes-from-will-genai-revolutionise-our-lives-for-the-good.html)
-- [Being a DORC in the age of Generative AI](https://andrewbolster.info//2025/07/being-a-dorc-in-the-age-of-generative-ai.html)
+- [Bolstering Claude Code: A Personal Development Environment Configuration Guide](http://andrewbolster.info/2025/12/bolstering-claude-code-a-personal-development-environment-configuration-guide/)
+- [GPS III: Where Are We? And Where Are We Going? [Archive]](http://andrewbolster.info/2025/08/gps-iii-where-are-we-and-where-are-we-going-archive/)
+- [Notes from &quot;Will GenAI Revolutionise our Lives for the Good?&quot;](http://andrewbolster.info/2025/08/notes-from-will-genai-revolutionise-our-lives-for-the-good/)
+- [Being a DORC in the age of Generative AI](http://andrewbolster.info/2025/07/being-a-dorc-in-the-age-of-generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
