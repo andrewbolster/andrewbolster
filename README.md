@@ -1,6 +1,7 @@
 <h3 align="center">A Brain Behind and Beard and Below a Bald.</h3>
 
 <p align="left">
+<em>Driving data to make AI work.</em><br/><br/>
 <strong>Senior R&D Manager (Data Science)</strong> at <a href="https://blackduck.com/">Black Duck Software</a> &middot; Belfast, UK &middot; Ph.D. MEng FRSS AdvDSP MBCS<br/>
 PhD in trust &amp; autonomous systems (University of Liverpool / QUB) &middot; Co-founder of <a href="https://farsetlabs.org.uk">Farset Labs</a> &middot; Treasurer at <a href="https://bsidesbelfast.org">BSides Belfast</a> &middot; Director at <a href="https://www.opengovernment.org.uk/networks/ni-ogn/">NI Open Government Network</a>
 </p>
@@ -8,9 +9,9 @@ PhD in trust &amp; autonomous systems (University of Liverpool / QUB) &middot; C
 <p align="left"> <a href="https://x.com/bolster" target="blank"><img src="https://img.shields.io/twitter/follow/bolster?logo=x&style=for-the-badge" alt="bolster" /></a> </p>
 
 ### Currently focused on
-- Enterprise AI platform operations &amp; LLMOps/MLOps at scale (30B+ tokens/month)
-- AI governance: NIST AI Framework, EU AI Act, Cyber Resilience Act
-- Application security in the age of AI-generated code
+- Getting the data right so the AI can work — governance, architecture, and the unglamorous plumbing
+- Productionising LLMs at scale: data quality → compliance → 30B+ tokens/month
+- AI regulation in practice: NIST AI Framework, EU AI Act, Cyber Resilience Act
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
