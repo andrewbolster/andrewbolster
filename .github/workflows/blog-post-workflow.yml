@@ -7,6 +7,7 @@ jobs:
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
+        timeout-minutes: 5
         steps: 
             - uses: actions/checkout@v4
             - uses: gautamkrishnar/blog-post-workflow@v1
