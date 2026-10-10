@@ -15,10 +15,10 @@ PhD in trust &amp; autonomous systems (University of Liverpool / QUB) &middot; C
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Interest, Taste and Expertise: Growing in post-AI Software Engineering &lpar;or anything I guess&rpar;](http://andrewbolster.info/2026/10/interest-taste-and-expertise-growing-in-post-ai-software-engineering-or-anything-i-guess/)
 - [The AI Bubble Isn’t Bursting. Its Reflections Are.](http://andrewbolster.info/2026/08/the-ai-bubble-isnt-bursting-its-reflections-are/)
 - [The Code Doesn&#39;t Care Who Wrote It: Why Context, Not AI Fear, Will Define Modern Application Security](http://andrewbolster.info/2026/04/the-code-doesnt-care-who-wrote-it-why-context-not-ai-fear-will-define-modern-application-security/)
 - [Bolstering Claude Code: A Personal Development Environment Configuration Guide](http://andrewbolster.info/2025/12/bolstering-claude-code-a-personal-development-environment-configuration-guide/)
-- [GPS III: Where Are We? And Where Are We Going? [Archive]](http://andrewbolster.info/2025/08/gps-iii-where-are-we-and-where-are-we-going-archive/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
